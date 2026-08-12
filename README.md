@@ -36,3 +36,5 @@ The dashboard provides a consolidated view of important IPL statistics and allow
 SKILLS DEMONSTRATED:
 Excel |Data Analyses| Data Cleaning | Pivot tables| Data Visualization | Dashboard development | Business intelligence
 
+
+
