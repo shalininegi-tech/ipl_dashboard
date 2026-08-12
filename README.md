@@ -29,6 +29,7 @@ The dataset used for this IPL Dashboard was obtained from an online IPL historic
 
 The dashboard was created by following a You tube tutorial for learning and practice purposes. The dashboard design and analyses were recreated independentaly in Microsoft Excel.
 
+
 DASHBOARD PREVIEW:
 The dashboard provides a consolidated view of important IPL statistics and allows users to explore different seasons and performance metrics.
 
